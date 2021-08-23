@@ -45,6 +45,7 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 ![HTML](https://img.shields.io/badge/-HTML-lightgrey?&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-lightgrey?&logo=css3&logoColor=008EC2)
 ![Javascript](https://img.shields.io/badge/-Javascript-lightgrey?&logo=Javascript)
+![Php](https://img.shields.io/badge/-PHP-lightgrey?&logo=php)
 
 ### Teste de Sistemas:
 ![Selenium](https://img.shields.io/badge/-Selenium-lightgrey?&logo=selenium)
@@ -69,6 +70,8 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 ![Google My Business](https://img.shields.io/badge/-Google_My_Business-lightgrey?&logo=googlemybusiness)
 ![Google Ads](https://img.shields.io/badge/-Google_Ads-lightgrey?&logo=googleads)
 ![Google Search Console](https://img.shields.io/badge/-Google_Search_Console-lightgrey?&logo=googlesearchconsole)
+![Insights](https://img.shields.io/badge/-PageSpeed_Insights-lightgrey?&logo=pagespeedinsights)
+![Yoast](https://img.shields.io/badge/-Yoast-lightgrey?&logo=Yoast&logoColor=purple)
 
 ### Sistemas Operacionais:
 ![Linux](https://img.shields.io/badge/-Windows-lightgrey?&logo=windows&logoColor=blue)
