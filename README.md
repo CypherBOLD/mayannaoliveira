@@ -18,15 +18,15 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 
 ## Siga-me nas Redes Sociais:
 <!-- Instagram -->
-[<img align="left" alt="Mayanna Oliveira | Instagram" width="2%" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][Instagram]
+[<img align="left" alt="Mayanna Oliveira | Instagram" width="3%" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][Instagram]
 <!-- Twitter -->
-[<img align="left" alt="Mayanna Oliveira | Twitter" width="2%" src="https://img.icons8.com/fluency/48/000000/twitter.png" />][Twitter]
+[<img align="left" alt="Mayanna Oliveira | Twitter" width="3%" src="https://img.icons8.com/fluency/48/000000/twitter.png" />][Twitter]
 <!-- Linkedin -->
-[<img align="left" alt="Mayanna Oliveira | Linkedin" width="2%" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][Linkedin]
+[<img align="left" alt="Mayanna Oliveira | Linkedin" width="3%" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][Linkedin]
 <!-- Whatsapp -->
-[<img align="left" alt="Whatsapp" width="2%" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>][Whatsapp]
+[<img align="left" alt="Whatsapp" width="3%" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>][Whatsapp]
 <!-- Linktree -->
-[<img align="left" alt="Mayanna Oliveira | Linktree" width="2%" src="https://img.icons8.com/color/48/000000/linktree.png" />][Linktree]
+[<img align="left" alt="Mayanna Oliveira | Linktree" width="3%" src="https://img.icons8.com/color/48/000000/linktree.png" />][Linktree]
 
 <!-- Link para as Redes Sociais -->
 [Linktree]: https://linktr.ee/mayannaoliveira
