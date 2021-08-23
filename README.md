@@ -3,8 +3,8 @@
 Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Norte do Paraná, pós-graduada em Engenharia de Sistemas pela Universidade Estadual de Montes Claros e certificada CFTL pela BSTQB.
 
 - 💼 Analista de Sistemas com experiência profissional como programadora, testadora (white-box e black-box) e analista de SEO.
-- 👩‍🎓 ADS e pós-graduação em Engenharia de Sistemas.
-- 📜 CTFL - Certified Tester Foundation Level.
+- 👩‍🎓 Graduada em Análise e Desenvolvimento de Sistemas e pós-graduação em Engenharia de Sistemas.
+- 📜 Certificação CTFL - Certified Tester Foundation Level.
 - 🇧🇷 Salvador/BA.
 - 📨 mayannasoliveira@gmail.com
 - 📱 Redes sociais listadas no [Linktree].
@@ -35,8 +35,6 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 [linkedin]: https://www.linkedin.com/in/mayannaoliveira/
 [whatsapp]: https://api.whatsapp.com/message/5XLG4UPSFCNWP1
 
-<br/>
-<br/>
 <br/>
 
 ### Linguagens de Programação:
