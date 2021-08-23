@@ -16,7 +16,7 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 
 <br/>
 
-## Siga-me nas Redes Sociais:
+## Siga-me nas Redes Sociais
 <!-- Instagram -->
 [<img align="left" alt="Mayanna Oliveira | Instagram" width="3%" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][Instagram]
 <!-- Twitter -->
@@ -37,7 +37,7 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 
 <br/>
 
-### Linguagens de Programação:
+### Linguagens de Programação
 ![Python](https://img.shields.io/badge/-Python-lightgrey?&logo=Python)
 ![HTML](https://img.shields.io/badge/-HTML-lightgrey?&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-lightgrey?&logo=css3&logoColor=008EC2)
@@ -45,11 +45,11 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 ![Php](https://img.shields.io/badge/-PHP-lightgrey?&logo=php)
 ![Octave](https://img.shields.io/badge/-GNU_Octave-lightgrey?&logo=octave)
 
-### Teste de Sistemas:
+### Teste de Sistemas
 ![Selenium](https://img.shields.io/badge/-Selenium-lightgrey?&logo=selenium)
 ![Pytest](https://img.shields.io/badge/-Pytest-lightgrey?&logo=pytest)
 
-### Bancos de dados:
+### Bancos de dados
 ![SQLite](https://img.shields.io/badge/-SQLite-lightgrey?&logo=SQLite&logoColor=008EC2)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-lightgrey?&logo=MariaDB&logoColor=715B00)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightgrey?&logo=PostgreSQL)
@@ -62,7 +62,7 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 ![Wordpress](https://img.shields.io/badge/-Wordpress-lightgrey?&logo=Wordpress&logoColor=0000AE)
 ![Woocommerce](https://img.shields.io/badge/-Woocommerce-lightgrey?&logo=woocommerce)
 
-### Otimização com SEO:
+### Otimização com SEO
 ![Google](https://img.shields.io/badge/-Google-lightgrey?&logo=google)
 ![Google Analytics](https://img.shields.io/badge/-Google_Analytics-lightgrey?&logo=googleanalytics)
 ![Google My Business](https://img.shields.io/badge/-Google_My_Business-lightgrey?&logo=googlemybusiness)
@@ -71,7 +71,7 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 ![Insights](https://img.shields.io/badge/-PageSpeed_Insights-lightgrey?&logo=pagespeedinsights)
 ![Yoast](https://img.shields.io/badge/-Yoast-lightgrey?&logo=Yoast&logoColor=purple)
 
-### Sistemas Operacionais:
+### Sistemas Operacionais
 ![Linux](https://img.shields.io/badge/-Windows-lightgrey?&logo=windows&logoColor=blue)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-lightgrey?&logo=Ubuntu)
 ![PopOS](https://img.shields.io/badge/-PopOS-lightgrey?&logo=popos)
