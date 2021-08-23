@@ -10,7 +10,7 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 - 📱 Redes sociais listadas no [Linktree].
 - 👩‍💻 Atualmente eu estou trabalhando como freelancer em desenvolvimento web e impulsionamento de redes sociais.
 - 🌱 Atualmente eu estou estudando: Flutter e Angular.
-- 💻 Eu posso colaborar com Matlab, Python, Django, PHP, Bootstrap, Selenium, Testes Unitários, HTML e CSS.
+- 💻 Eu posso colaborar com Matlab/Octave, Python, Django, PHP, Bootstrap, Selenium, Testes Unitários, HTML e CSS.
 - 💬 A forma mais rápida de falar comigo é via [Instagram].
 - 🎴 Um fato curioso é que eu gosto de jogos como Mahjong, Hanafuda, Shogi, Scopa, Gamão entre outros.
 
@@ -39,13 +39,13 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 <br/>
 <br/>
 
-
 ### Linguagens de Programação:
 ![Python](https://img.shields.io/badge/-Python-lightgrey?&logo=Python)
 ![HTML](https://img.shields.io/badge/-HTML-lightgrey?&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-lightgrey?&logo=css3&logoColor=008EC2)
 ![Javascript](https://img.shields.io/badge/-Javascript-lightgrey?&logo=Javascript)
 ![Php](https://img.shields.io/badge/-PHP-lightgrey?&logo=php)
+![Octave](https://img.shields.io/badge/-GNU_Octave-lightgrey?&logo=octave)
 
 ### Teste de Sistemas:
 ![Selenium](https://img.shields.io/badge/-Selenium-lightgrey?&logo=selenium)
