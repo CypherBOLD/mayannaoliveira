@@ -1,4 +1,4 @@
-## Olá, o meu nome é Mayanna <a href="https://linktr.ee/mayannaoliveira"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<h1> Olá, o meu nome é Mayanna <a href="https://linktr.ee/mayannaoliveira"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> </h1>
 
 Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Norte do Paraná, pós-graduada em Engenharia de Sistemas pela Universidade Estadual de Montes Claros e certificada CFTL pela BSTQB.
 
@@ -15,27 +15,64 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 - 🎴 Um fato curioso é que eu gosto de jogos como Mahjong, Hanafuda, Shogi, Scopa, Gamão entre outros.
 
 <br/>
+  
+<div align="center">
 
-## Siga-me nas Redes Sociais
-<!-- Instagram -->
-[<img align="left" alt="Mayanna Oliveira | Instagram" width="3%" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][Instagram]
-<!-- Twitter -->
-[<img align="left" alt="Mayanna Oliveira | Twitter" width="3%" src="https://img.icons8.com/fluency/48/000000/twitter.png" />][Twitter]
-<!-- Linkedin -->
-[<img align="left" alt="Mayanna Oliveira | Linkedin" width="3%" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][Linkedin]
-<!-- Whatsapp -->
-[<img align="left" alt="Whatsapp" width="3%" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>][Whatsapp]
-<!-- Linktree -->
-[<img align="left" alt="Mayanna Oliveira | Linktree" width="3%" src="https://img.icons8.com/color/48/000000/linktree.png" />][Linktree]
-
-<!-- Link para as Redes Sociais -->
-[Linktree]: https://linktr.ee/mayannaoliveira
-[twitter]: https://twitter.com/oliveiramayanna/
-[instagram]: https://www.instagram.com/oliveiramayanna/
-[linkedin]: https://www.linkedin.com/in/mayannaoliveira/
-[whatsapp]: https://api.whatsapp.com/message/5XLG4UPSFCNWP1
+<img align="center" alt="logo" title="Mayanna Oliveira" width="20%" src="https://i.imgur.com/dNLeP9J.png" />
 
 <br/>
+<br/>
+
+![visualizacoes](https://komarev.com/ghpvc/?username=mayannaoliveira&color=green&label=Visitas_no_Perfil)
+<div>
+
+<br/>
+
+<div align="center">
+<h3>Siga-me nas redes sociais, eu estarei sempre a disposíção para trocar novas idéias. Sempre que eu puder estarei postando novidades!</h3>
+
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayannaoliveira)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mayannait@gmail.com)](mailto:mayannait@gmail.com)
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/message/5XLG4UPSFCNWP1)
+[![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mayannaoliveira)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oliveiramayanna/)
+[![twitter](https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](ttps://twitter.com/oliveiramayanna/)
+</div>
+
+<br/>
+
+<div align="left">
+
+<h2>Tutoriais das Documentações</h2>
+<p> Eu estou seguindo os modelos das documentações e realizando alguns tutorias para estudo. A prática de usár tutoriais disponíveis na documentação ajuda na melhor compreensão da tecnologia em uso.</p>
+
+[![tutorial-angular-tour-of-heroes](https://github-readme-stats.vercel.app/api/pin/?username=mayannaoliveira&repo=tutorial-angular-tour-of-heroes&theme=dracula)](https://github.com/mayannaoliveira/tutorial-angular-tour-of-heroes)
+
+<h2>Dicas para facilitar o dia-a-dia</h2>
+<p>Dicas para facilitar a vida do programador e testador pensando sempre no aumento da produtividade.</p>
+
+[![xampp-bash](https://github-readme-stats.vercel.app/api/pin/?username=mayannaoliveira&repo=xampp-bash&theme=dracula)](https://github.com/mayannaoliveira/xampp-bash)
+
+</div>
+
+<br/>
+
+<div align="left">
+
+<h2>Indicadores</h2>
+
+<p> O meu GitHub Stats e as linguagens de programação que eu venho usando com mais frequencia.</p>
+
+![mayannaoliveira GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayannaoliveira&show_icons=true&theme=dracula)
+
+
+[![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mayannaoliveira&layout=compact&theme=dracula)](https://github.com/mayannaoliveira/github-readme-stats)
+
+</div>
+
+<br/>
+
+<div align="left">
 
 ### Linguagens de Programação
 ![Python](https://img.shields.io/badge/-Python-lightgrey?&logo=Python)
@@ -91,3 +128,5 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 ### Comando Shell
 ![Bash](https://img.shields.io/badge/-Bash-lightgrey?&logo=GNUBash&logoColor=black)
 ![Powershell](https://img.shields.io/badge/-PowerShell-lightgrey?&logo=powershell)
+
+</div>
