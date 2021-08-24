@@ -29,7 +29,7 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 <br/>
 
 <div align="center">
-<h3>Siga-me nas redes sociais, eu estarei sempre a disposíção para trocar novas idéias. Sempre que eu puder estarei postando novidades!</h3>
+<h3>Siga-me nas redes sociais, eu estarei sempre a disposíção para conversar e trocar idéias. Sempre que eu puder estarei postando novidades!</h3>
 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayannaoliveira)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mayannait@gmail.com)](mailto:mayannait@gmail.com)
@@ -45,7 +45,9 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 
 <h2>Tutoriais das Documentações</h2>
 <p> Eu estou seguindo os modelos das documentações e realizando alguns tutorias para estudo. A prática de usár tutoriais disponíveis na documentação ajuda na melhor compreensão da tecnologia em uso.</p>
-
+  
+[![Quickstart-Compose-Django](https://github-readme-stats.vercel.app/api/pin/?username=mayannaoliveira&repo=Quickstart-Compose-Django&theme=dracula)](https://github.com/mayannaoliveira/Quickstart-Compose-Django)
+  
 [![tutorial-angular-tour-of-heroes](https://github-readme-stats.vercel.app/api/pin/?username=mayannaoliveira&repo=tutorial-angular-tour-of-heroes&theme=dracula)](https://github.com/mayannaoliveira/tutorial-angular-tour-of-heroes)
 
 <h2>Dicas para facilitar o dia-a-dia</h2>
