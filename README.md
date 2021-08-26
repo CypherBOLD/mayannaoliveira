@@ -61,7 +61,7 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 
 <div align="left">
 
-<h2>Indicadores</h2>
+<h2>Indicadores do Github Stats</h2>
 
 <p> O meu GitHub Stats e as linguagens de programação que eu venho usando com mais frequencia.</p>
 
@@ -74,6 +74,7 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 
 <br/>
 
+<h2> Habilidades Profissionais </h2>
 <div align="left">
 
 ### Linguagens de Programação
@@ -130,5 +131,15 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 ### Comando Shell
 ![Bash](https://img.shields.io/badge/-Bash-lightgrey?&logo=GNUBash&logoColor=black)
 ![Powershell](https://img.shields.io/badge/-PowerShell-lightgrey?&logo=powershell)
+
+</div>
+  
+<br/>
+
+<div align="center">
+    
+<h2> Emblemas conquistados: </h2>
+
+<a href="https://www.credly.com/badges/64d372d7-bb00-44d4-88e6-afb2ff74d620/public_url" target="_blank"><img alt="Machine_Learning_with_Python" title="Machine Learning with Python" width="16%" src="https://images.credly.com/size/340x340/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png" />
 
 </div>
