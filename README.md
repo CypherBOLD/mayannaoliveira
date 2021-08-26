@@ -54,7 +54,7 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 
 <div align="left">
 
-<h4>Últimas postagens: </h4>
+<h4>Últimas postagens do blog: </h4>
 
 [Configurações do Visual Studio Code com comentários](https://maosnocodigo.hashnode.dev/configuracoes-do-visual-studio-code-com-comentarios)
 
