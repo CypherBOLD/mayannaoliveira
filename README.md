@@ -222,8 +222,20 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 
 <div align="center">
 
-<h2> Emblemas Conquistados </h2>
+<h3> Emblemas Conquistados </h3>
 
 <a href="https://www.credly.com/badges/64d372d7-bb00-44d4-88e6-afb2ff74d620/public_url" target="_blank"><img alt="Machine_Learning_with_Python" title="Machine Learning with Python" width="16%" src="https://images.credly.com/size/340x340/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<h3> Certificados Conquistados em 2021 </h3>
+
+<!-- Google Analytics para iniciantes --> <a href="https://analytics.google.com/analytics/academy/certificate/m6b_UsAeSQO9oAMHvXrN6Q" target="_blank"><img alt="certificate_m6b_UsAeSQO9oAMHvXrN6Q" title="Google Analytics para iniciantes" width="25%" src="https://i.imgur.com/eC7yG67.png" />
+<!-- Trabalhando com Git e GitLab --> <a href="https://i.imgur.com/MRfQ8S3.png" target="_blank"><img alt="Trabalhando com Git e GitLab" title="Trabalhando com Git e GitLab" width="24.5%" src="https://i.imgur.com/MRfQ8S3.png" />
+
+</div>
+
