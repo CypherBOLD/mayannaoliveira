@@ -224,7 +224,7 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 
 <h3> Emblemas Conquistados </h3>
 
-<a href="https://www.credly.com/badges/64d372d7-bb00-44d4-88e6-afb2ff74d620/public_url" target="_blank"><img alt="Machine_Learning_with_Python" title="Machine Learning with Python" width="16%" src="https://images.credly.com/size/340x340/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png" />
+<!-- Machine Learning with Python --> <a href="https://www.credly.com/badges/64d372d7-bb00-44d4-88e6-afb2ff74d620/public_url" target="_blank"><img alt="Machine Learning with Python" title="Machine Learning with Python" width="16%" src="https://images.credly.com/size/340x340/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png" /> <!-- Data Science Foundations --> <a href="https://www.credly.com/badges/04760ec1-b407-4860-b17c-35167bff17e2/public_url" target="_blank"><img alt="Data Science Foundations" title="Data Science Foundations" width="16%" src="https://images.credly.com/size/340x340/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png" />
 
 </div>
 
