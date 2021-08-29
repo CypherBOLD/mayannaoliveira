@@ -234,8 +234,7 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 
 <h3> Certificados Conquistados em 2021 </h3>
 
-<!-- Google Analytics para iniciantes --> <a href="https://analytics.google.com/analytics/academy/certificate/m6b_UsAeSQO9oAMHvXrN6Q" target="_blank"><img alt="certificate_m6b_UsAeSQO9oAMHvXrN6Q" title="Google Analytics para iniciantes" width="25%" src="https://i.imgur.com/eC7yG67.png" />
-<!-- Trabalhando com Git e GitLab --> <a href="https://i.imgur.com/MRfQ8S3.png" target="_blank"><img alt="Trabalhando com Git e GitLab" title="Trabalhando com Git e GitLab" width="24.5%" src="https://i.imgur.com/MRfQ8S3.png" />
+<!-- Google Analytics para iniciantes --> <a href="https://analytics.google.com/analytics/academy/certificate/m6b_UsAeSQO9oAMHvXrN6Q" target="_blank"><img alt="Google Analytics para iniciantes" title="Google Analytics para iniciantes" width="25%" src="https://i.imgur.com/eC7yG67.png" /> <!-- Curso avançado do Google Analytics --> <a href="https://analytics.google.com/analytics/academy/certificate/zq75IuRwSomzjykOmvQ3yg" target="_blank"><img alt="Curso avançado do Google Analytics" title="Curso avançado do Google Analytics" width="22.5%" src="https://i.imgur.com/6mqbyoC.png" /> <!-- Trabalhando com Git e GitLab --> <a href="https://i.imgur.com/MRfQ8S3.png" target="_blank"><img alt="Trabalhando com Git e GitLab" title="Trabalhando com Git e GitLab" width="24.5%" src="https://i.imgur.com/MRfQ8S3.png" />
 
 </div>
 
