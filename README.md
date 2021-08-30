@@ -160,62 +160,6 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 ![Bash](https://img.shields.io/badge/-Bash-black?style=for-the-badge&logo=GNUBash&logoColor=white)
 ![Powershell](https://img.shields.io/badge/-PowerShell-blue?style=for-the-badge&logo=powershell&logoColor=white)
 
-
-<!-- ### Linguagens de Programação
-![Python](https://img.shields.io/badge/-Python-lightgrey?&logo=Python)
-![HTML](https://img.shields.io/badge/-HTML-lightgrey?&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-lightgrey?&logo=css3&logoColor=008EC2)
-![Javascript](https://img.shields.io/badge/-Javascript-lightgrey?&logo=Javascript)
-![Php](https://img.shields.io/badge/-PHP-lightgrey?&logo=php)
-![Octave](https://img.shields.io/badge/-GNU_Octave-lightgrey?&logo=octave)
-
-### Teste de Sistemas
-![Selenium](https://img.shields.io/badge/-Selenium-lightgrey?&logo=selenium)
-![Pytest](https://img.shields.io/badge/-Pytest-lightgrey?&logo=pytest)
-
-### Bancos de dados
-![SQLite](https://img.shields.io/badge/-SQLite-lightgrey?&logo=SQLite&logoColor=008EC2)
-![MariaDB](https://img.shields.io/badge/-MariaDB-lightgrey?&logo=MariaDB&logoColor=715B00)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightgrey?&logo=PostgreSQL)
-
-### Frameworks
-![Django](https://img.shields.io/badge/-Django-lightgrey?&logo=Django&logoColor=01360A)
-![Node](https://img.shields.io/badge/-Node_JS-lightgrey?&logo=Node.js)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-lightgrey?&logo=Bootstrap)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-lightgrey?&logo=TailwindCSS)
-![Wordpress](https://img.shields.io/badge/-Wordpress-lightgrey?&logo=Wordpress&logoColor=0000AE)
-![Woocommerce](https://img.shields.io/badge/-Woocommerce-lightgrey?&logo=woocommerce)
-
-### Otimização com SEO
-![Google](https://img.shields.io/badge/-Google-lightgrey?&logo=google)
-![Google Analytics](https://img.shields.io/badge/-Google_Analytics-lightgrey?&logo=googleanalytics)
-![Google My Business](https://img.shields.io/badge/-Google_My_Business-lightgrey?&logo=googlemybusiness)
-![Google Ads](https://img.shields.io/badge/-Google_Ads-lightgrey?&logo=googleads)
-![Google Search Console](https://img.shields.io/badge/-Google_Search_Console-lightgrey?&logo=googlesearchconsole)
-![Insights](https://img.shields.io/badge/-PageSpeed_Insights-lightgrey?&logo=pagespeedinsights)
-![Yoast](https://img.shields.io/badge/-Yoast-lightgrey?&logo=Yoast&logoColor=purple)
-
-### Sistemas Operacionais
-![Linux](https://img.shields.io/badge/-Windows-lightgrey?&logo=windows&logoColor=blue)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-lightgrey?&logo=Ubuntu)
-![PopOS](https://img.shields.io/badge/-PopOS-lightgrey?&logo=popos)
-
-### Editores de Código-Fonte
-![Visual Studio Code](https://img.shields.io/badge/-VS_Code-lightgrey?&logo=visualstudiocode&logoColor=0000AE)
-![Py Charm](https://img.shields.io/badge/-Py_Charm-lightgrey?&logo=pycharm&logoColor=020092)
-![Intellij](https://img.shields.io/badge/-Intellij_IDEA-lightgrey?&logo=intellijidea&logoColor=purple)
-
-### Virtualização com Contêineres
-![Docker](https://img.shields.io/badge/-Docker-lightgrey?&logo=Docker)
-
-### Gerenciadores de Pacotes
-![Yarn](https://img.shields.io/badge/-Yarn-lightgrey?&logo=yarn)
-![NPM](https://img.shields.io/badge/-NPM-lightgrey?&logo=NPM)
-
-### Comando Shell
-![Bash](https://img.shields.io/badge/-Bash-lightgrey?&logo=GNUBash&logoColor=black)
-![Powershell](https://img.shields.io/badge/-PowerShell-lightgrey?&logo=powershell) -->
-
 </div>
 
 <br/>
@@ -224,7 +168,7 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 
 <h3> Emblemas Conquistados </h3>
 
-<!-- Machine Learning with Python --> <a href="https://www.credly.com/badges/64d372d7-bb00-44d4-88e6-afb2ff74d620/public_url" target="_blank"><img alt="Machine Learning with Python" title="Machine Learning with Python" width="16%" src="https://images.credly.com/size/340x340/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png" /> <!-- Data Science Foundations --> <a href="https://www.credly.com/badges/04760ec1-b407-4860-b17c-35167bff17e2/public_url" target="_blank"><img alt="Data Science Foundations" title="Data Science Foundations" width="16%" src="https://images.credly.com/size/340x340/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png" />
+<!-- Machine Learning with Python --> <a href="https://www.credly.com/badges/64d372d7-bb00-44d4-88e6-afb2ff74d620/public_url" target="_blank"><img alt="Machine Learning with Python" title="Machine Learning with Python" width="16%" src="https://images.credly.com/size/340x340/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png" /> <!-- Data Science Foundations --> <a href="https://www.credly.com/badges/04760ec1-b407-4860-b17c-35167bff17e2/public_url" target="_blank"><img alt="Data Science Foundations" title="Data Science Foundations" width="16%" src="https://images.credly.com/size/340x340/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png" /> <!-- Docker Essentials --> <a href="https://www.credly.com/badges/5f3e704e-4369-4010-b50c-5168db1fa98a/public_url" target="_blank"><img src="https://i.imgur.com/DFYOGUF.png" alt="Docker Essentials: A Developer Introduction" title="Docker Essentials: A Developer Introduction" width="16%"></a> <!-- Git e Gitlab --> <a href="https://drive.google.com/file/d/19im8g2jrJltF_3-8CgLwFfu67HHfWvAB/view?usp=sharing" target="_blank"><img src="https://i.imgur.com/eKYZ5ut.png" alt="IDE Instalação e Configuração Visual Studio Code" title="IDE Instalação e Configuração Visual Studio Code" width="16%"></a> <!-- Configuração Visual Studio Code --> <a href="https://drive.google.com/file/d/1wkrVHEljaXoBZbwSdqb-tz_fCssn8MYu/view?usp=sharing" target="_blank"><img src="https://i.imgur.com/d2yNr8U.png" alt="Trabalhando com Git e Gitlab na prática" title="Trabalhando com Git e Gitlab na prática" width="15%"></a>
 
 </div>
 
