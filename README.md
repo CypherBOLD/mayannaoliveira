@@ -102,9 +102,6 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 <h2> Habilidades Profissionais </h2>
 <div align="left">
 
-[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayannaoliveira)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mayannait@gmail.com)](mailto:mayannait@gmail.com)
-
 ### Linguagens de Programação
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white)
@@ -139,6 +136,11 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 ![Insights](https://img.shields.io/badge/-PageSpeed_Insights-blue?style=for-the-badge&logo=pagespeedinsights&logoColor=white)
 ![Yoast](https://img.shields.io/badge/-Yoast-purple?style=for-the-badge&logo=Yoast&logoColor=white)
 
+### Sistema de Controle de Versões
+![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github&logoColor=white)
+![Gitlab](https://img.shields.io/badge/-Gitlab-orange?style=for-the-badge&logo=Gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=for-the-badge&logo=Bitbucket&logoColor=white)
+  
 ### Sistemas Operacionais
 ![Linux](https://img.shields.io/badge/-Windows-blue?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=for-the-badge&logo=Ubuntu&logoColor=white)
