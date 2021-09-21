@@ -1,6 +1,13 @@
-<h1> Olá, o meu nome é Mayanna <a href="https://linktr.ee/mayannaoliveira"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> </h1>
+<!-- <h1> <img src="https://media.giphy.com/media/bZbfYZ1I4ClQLQVFll/giphy.gif?cid=ecf05e47m5l24u6vjr2f0sy1ynzacwz72b3ohnofe0gl3pgj&rid=giphy.gif&ct=s" width="35px"></a> Oi, o meu nome é Mayanna <a href="https://linktr.ee/mayannaoliveira"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> </h1> -->
+
+
+<h1> <img src="media/brasil.gif" width="35px" alt="gif"></a> Oi, o meu nome é Mayanna <a href="https://linktr.ee/mayannaoliveira"><img src="media/hand.gif" width="25px" alt="gif"></a> </h1>
 
 Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Norte do Paraná, pós-graduada em Engenharia de Sistemas pela Universidade Estadual de Montes Claros e certificada CFTL pela BSTQB.
+
+<div align="center">
+<img src="media/girlcode.gif" width="90%" alt="gif">
+</div>
 
 - 💼 Analista de Sistemas com experiência profissional como programadora, testadora (white-box e black-box) e analista de SEO.
 - 👩‍🎓 Graduação em Análise e Desenvolvimento de Sistemas (UNOPAR) e pós-graduação em Engenharia de Sistemas (UNIMONTES).
@@ -18,57 +25,47 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 
 <div align="center">
 
-<img align="center" alt="logo" title="Mayanna Oliveira" width="20%" src="https://i.imgur.com/dNLeP9J.png" />
-
-<br/>
-<br/>
+<img align="center" alt="logo" title="Mayanna Oliveira" width="35%" src="media/beacons.jpg" />
 
 ![visualizacoes](https://komarev.com/ghpvc/?username=mayannaoliveira&color=green&label=Visitas_no_Perfil)
 <div>
 
 <br/>
 
-<div align="center">
+<details align="left">
+<summary><b>🤝🏻 Redes Sociais</b></summary>
+<div>
 <h3>Siga-me nas redes sociais, eu estarei sempre a disposíção para conversar e trocar idéias. Sempre que eu puder estarei postando novidades!</h3>
 
-[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayannaoliveira)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mayannait@gmail.com)](mailto:mayannait@gmail.com)
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/message/5XLG4UPSFCNWP1)
-[![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mayannaoliveira)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oliveiramayanna/)
-[![twitter](https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://maosnocodigo.hashnode.dev/)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayannaoliveira) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mayannait@gmail.com)](mailto:mayannait@gmail.com) [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/message/5XLG4UPSFCNWP1) [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mayannaoliveira) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oliveiramayanna/) [![twitter](https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://maosnocodigo.hashnode.dev/)
 
 </div>
-
-<div align="center">
-<h4>Vamos compartilhar tecnologia com o Mãos no Códido?<h4>
-<p>Eu dei início a esse blog para dividir com vocês um pouco do meu dia-a-dia trabalhando como Analista de Sistemas. Um blog com dicas de programação, ferramentas, idéias e muita tecnologia.</p>
-
-[![hashnode](https://img.shields.io/badge/siga_meu_blog_no-hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white)](https://maosnocodigo.hashnode.dev/)
-
-<p>Agradeço os participantes que com alegria interajem e colaboram com o blog!</p>
-
-<a href="https://maosnocodigo.hashnode.dev/" target="_blank"> <img src="https://i.imgur.com/Xr9FXzs.gif" alt="gif do blog" title="Clique aqui e acesse o nosso blog!"/> </a>
-
-</div>
-
-<div align="left">
-
-<h4>Últimas postagens do blog: </h4>
-
-[Configurações do Visual Studio Code com comentários](https://maosnocodigo.hashnode.dev/configuracoes-do-visual-studio-code-com-comentarios)
-
-[Shortcut para uma AppImage](https://maosnocodigo.hashnode.dev/shortcut-para-uma-appimage)
-
-<p> Acompanhe para receber mais novidades! </p>
-
-</div>
+</details>
 
 <br/>
 
-<div align="left">
+<details align="left">
+<summary><b>✌️ Blogs e Postagens</b></summary>
 
-<h2>Tutoriais das Documentações</h2>
+<div>
+<h4>Vamos compartilhar tecnologia com o Mãos no Códido?<h4>
+<p>Eu dei início a uma série de postagens para dividir um pouco do meu dia-a-dia trabalhando como Analista de Sistemas. Postagens com dicas de programação, ferramentas, idéias e muita tecnologia.</p>
+
+[![hashnode](https://img.shields.io/badge/siga_meu_blog_no-hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white)](https://maosnocodigo.hashnode.dev/)
+
+[![dev](https://img.shields.io/badge/Meus_posts_no--blue?style=for-the-badge&logo=dev&logoColor=white)](https://dev.to/mayannaoliveira)
+
+<p>Agradeço os participantes que com alegria interajem e colaboram com as minhas postagens!</p>
+
+</div>
+</details>
+
+<br/>
+
+<details align="left">
+
+<summary><b>📚 Tutoriais de Documentações e Dicas</b></summary>
+
 <p> Eu estou seguindo os modelos das documentações e realizando alguns tutorias para estudo. A prática de usár tutoriais disponíveis na documentação ajuda na melhor compreensão da tecnologia em uso.</p>
 
 [![Quickstart-Compose-Django](https://github-readme-stats.vercel.app/api/pin/?username=mayannaoliveira&repo=Quickstart-Compose-Django&theme=dracula)](https://github.com/mayannaoliveira/Quickstart-Compose-Django)
@@ -80,27 +77,37 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 
 [![xampp-bash](https://github-readme-stats.vercel.app/api/pin/?username=mayannaoliveira&repo=xampp-bash&theme=dracula)](https://github.com/mayannaoliveira/xampp-bash)
 
-</div>
+</details>
 
 <br/>
 
-<div align="left">
+<details align="left">
 
-<h2>Indicadores do Github Stats</h2>
+<summary><b>🏆 Indicadores do Github Stats</b></summary>
+
+📊 [Github Stats]
 
 <p> O meu GitHub Stats e as linguagens de programação que eu venho usando com mais frequencia.</p>
 
-![mayannaoliveira GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayannaoliveira&show_icons=true&theme=dracula)
+![mayannaoliveira GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayannaoliveira&show_icons=true&theme=dracula) [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mayannaoliveira&layout=compact&theme=dracula)](https://github.com/mayannaoliveira/github-readme-stats)
 
 
-[![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mayannaoliveira&layout=compact&theme=dracula)](https://github.com/mayannaoliveira/github-readme-stats)
+📉 [Github Chart API]
 
-</div>
+<img src="https://ghchart.rshah.org/000000/mayannaoliveira" alt="mayannaoliveira's Github chart" />
+
+🏆️ [Profile Trophy]
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mayannaoliveira&theme=onedark)](https://github.com/mayannaoliveira/github-profile-trophy)
+
+
+</details>
 
 <br/>
 
-<h2> Habilidades Profissionais </h2>
-<div align="left">
+<details align="left">
+
+<summary><b>👩‍💻 Habilidades Profissionais</b></summary>
 
 ### Linguagens de Programação
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python&logoColor=white)
@@ -162,25 +169,51 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 ![Bash](https://img.shields.io/badge/-Bash-black?style=for-the-badge&logo=GNUBash&logoColor=white)
 ![Powershell](https://img.shields.io/badge/-PowerShell-blue?style=for-the-badge&logo=powershell&logoColor=white)
 
-</div>
+</details>
 
 <br/>
 
-<div align="center">
 
-<h3> Emblemas Conquistados </h3>
+<details align="left">
+
+<summary><b>🏅 Emblemas Conquistados</b></summary>
 
 <!-- Machine Learning with Python --> <a href="https://www.credly.com/badges/64d372d7-bb00-44d4-88e6-afb2ff74d620/public_url" target="_blank"><img alt="Machine Learning with Python" title="Machine Learning with Python" width="16%" src="https://images.credly.com/size/340x340/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png" /> <!-- Data Science Foundations --> <a href="https://www.credly.com/badges/04760ec1-b407-4860-b17c-35167bff17e2/public_url" target="_blank"><img alt="Data Science Foundations" title="Data Science Foundations" width="16%" src="https://images.credly.com/size/340x340/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png" /> <!-- Docker Essentials --> <a href="https://www.credly.com/badges/5f3e704e-4369-4010-b50c-5168db1fa98a/public_url" target="_blank"><img src="https://i.imgur.com/DFYOGUF.png" alt="Docker Essentials: A Developer Introduction" title="Docker Essentials: A Developer Introduction" width="16%"></a> <!-- Git e Gitlab --> <a href="https://drive.google.com/file/d/19im8g2jrJltF_3-8CgLwFfu67HHfWvAB/view?usp=sharing" target="_blank"><img src="https://i.imgur.com/eKYZ5ut.png" alt="IDE Instalação e Configuração Visual Studio Code" title="IDE Instalação e Configuração Visual Studio Code" width="16%"></a> <!-- Configuração Visual Studio Code --> <a href="https://drive.google.com/file/d/1wkrVHEljaXoBZbwSdqb-tz_fCssn8MYu/view?usp=sharing" target="_blank"><img src="https://i.imgur.com/d2yNr8U.png" alt="Trabalhando com Git e Gitlab na prática" title="Trabalhando com Git e Gitlab na prática" width="15%"></a>
 
-</div>
+Acompanhe minha evolução no [Credly](https://www.credly.com/users/mayannaoliveira) 🖖
+
+</details>
 
 <br/>
 
-<div align="center">
+<details align="left">
 
-<h3> Certificados Conquistados em 2021 </h3>
+<summary><b>🎓 Certificados Conquistados</b></summary>
 
 <!-- Google Analytics para iniciantes --> <a href="https://analytics.google.com/analytics/academy/certificate/m6b_UsAeSQO9oAMHvXrN6Q" target="_blank"><img alt="Google Analytics para iniciantes" title="Google Analytics para iniciantes" width="25%" src="https://i.imgur.com/eC7yG67.png" /> <!-- Curso avançado do Google Analytics --> <a href="https://analytics.google.com/analytics/academy/certificate/zq75IuRwSomzjykOmvQ3yg" target="_blank"><img alt="Curso avançado do Google Analytics" title="Curso avançado do Google Analytics" width="22.5%" src="https://i.imgur.com/6mqbyoC.png" /> <!-- Trabalhando com Git e GitLab --> <a href="https://i.imgur.com/MRfQ8S3.png" target="_blank"><img alt="Trabalhando com Git e GitLab" title="Trabalhando com Git e GitLab" width="24.5%" src="https://i.imgur.com/MRfQ8S3.png" />
 
-</div>
+</details>
+
+<br/>
+
+
+#### Referências
+
+[Giphy], [Github Chart API], [Profile Trophy], [Github Stats], [Awesome Profile], [For The Badge] e [Shields]
+
+[Github Chart API]: https://ghchart.rshah.org/
+[Profile Trophy]: https://github.com/ryo-ma/github-profile-trophy
+[Github Stats]: https://github.com/anuraghazra/github-readme-stats
+[Shields]: https://shields.io/
+[For The Badge]: https://forthebadge.com/
+[Awesome Profile]: https://github.com/kautukkundan/Awesome-Profile-README-templates
+[Giphy]: https://giphy.com/
+[Linktree]: https://linktr.ee/mayannaoliveira
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+
+<!-- <a href="https://beacons.ai/mayannaoliveira/"><img src="https://media4.giphy.com/media/lTAqHn9eHf1v6sEvYZ/giphy.gif?cid=ecf05e47yeru33ptfh12j2jnqr65firewe4hz4qzxqt69f1f&rid=giphy.gif" width="40%"></a> -->
+
+<a href="https://beacons.ai/mayannaoliveira/"><img src="media/tea.gif" width="40%" alt="gif"></a>
 
