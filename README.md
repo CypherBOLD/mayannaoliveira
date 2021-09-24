@@ -25,10 +25,10 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 
 <div align="center">
 
-<img align="center" alt="logo" title="Mayanna Oliveira" width="35%" src="media/beacons.jpg" />
+<img align="center" alt="logo" title="Mayanna Oliveira" width="15%" src="media/beacons.jpg" />
 
 ![visualizacoes](https://komarev.com/ghpvc/?username=mayannaoliveira&color=green&label=Visitas_no_Perfil)
-<div>
+</div>
 
 <br/>
 
