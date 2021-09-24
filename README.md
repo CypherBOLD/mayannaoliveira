@@ -65,6 +65,11 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 📘 Últimas postagens do blog Mãos no Código
 
 <!-- BLOG-POST-LIST:START -->
+- [Alternatives to Visual Studio Code - Part 1/2](https://maosnocodigo.hashnode.dev/alternatives-to-visual-studio-code-part-12)
+- [My 13 Favorites Github Repositories](https://maosnocodigo.hashnode.dev/my-13-favorites-github-repositories)
+- [Sublime Text Turbo Mode](https://maosnocodigo.hashnode.dev/sublime-text-turbo-mode)
+- [An easy way to install Android Studio](https://maosnocodigo.hashnode.dev/an-easy-way-to-install-android-studio)
+- [List of my favorite themes and extensions on Visual Studio Code](https://maosnocodigo.hashnode.dev/vscode-themes-and-extensions)
 <!-- BLOG-POST-LIST:END -->
   
 <br/>
