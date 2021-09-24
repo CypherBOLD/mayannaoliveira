@@ -6,7 +6,7 @@
 Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Norte do Paraná, pós-graduada em Engenharia de Sistemas pela Universidade Estadual de Montes Claros e certificada CFTL pela BSTQB.
 
 <div align="center">
-<img src="media/girlcode.gif" width="50%" alt="gif">
+<img src="media/girlcode.gif" width="50%" alt="gif"> 
 </div>
 
 - 💼 Analista de Sistemas com experiência profissional como programadora, testadora (white-box e black-box) e analista de SEO.
@@ -99,17 +99,22 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 
 <summary><b>🏆 Indicadores do Github Stats</b></summary>
 
+<br/>
+  
 📊 [Github Stats]
 
 <p> O meu GitHub Stats e as linguagens de programação que eu venho usando com mais frequencia.</p>
 
 ![mayannaoliveira GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayannaoliveira&show_icons=true&theme=dracula) [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mayannaoliveira&layout=compact&theme=dracula)](https://github.com/mayannaoliveira/github-readme-stats)
 
+<br/>
 
 📉 [Github Chart API]
 
 <img src="https://ghchart.rshah.org/000000/mayannaoliveira" alt="mayannaoliveira's Github chart" />
 
+ <br/>
+  
 🏆️ [Profile Trophy]
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mayannaoliveira&theme=onedark)](https://github.com/mayannaoliveira/github-profile-trophy)
@@ -186,7 +191,10 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 </details>
 
 <br/>
+  
+ [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayannaoliveira)](https://github.com/anuraghazra/github-readme-stats)
 
+<br/>
 
 <details align="left">
 
