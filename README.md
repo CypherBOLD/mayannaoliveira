@@ -1,7 +1,7 @@
 <!-- <h1> <img src="https://media.giphy.com/media/bZbfYZ1I4ClQLQVFll/giphy.gif?cid=ecf05e47m5l24u6vjr2f0sy1ynzacwz72b3ohnofe0gl3pgj&rid=giphy.gif&ct=s" width="35px"></a> Oi, o meu nome é Mayanna <a href="https://linktr.ee/mayannaoliveira"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> </h1> -->
 
 
-<h1> <img src="media/brasil.gif" width="35px" alt="gif"></a> Oi, o meu nome é Mayanna <a href="https://linktr.ee/mayannaoliveira"><img src="media/hand.gif" width="25px" alt="gif"></a> </h1>
+<h1> <img src="media/brasil.gif" width="35px" alt="gif"></a> Olá, meu nome é Mayanna <a href="https://linktr.ee/mayannaoliveira"><img src="media/hand.gif" width="25px" alt="gif"></a> </h1>
 
 Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Norte do Paraná, pós-graduada em Engenharia de Sistemas pela Universidade Estadual de Montes Claros e certificada CFTL pela BSTQB.
 
