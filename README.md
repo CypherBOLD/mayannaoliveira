@@ -71,6 +71,8 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 - [An easy way to install Android Studio](https://maosnocodigo.hashnode.dev/an-easy-way-to-install-android-studio)
 - [List of my favorite themes and extensions on Visual Studio Code](https://maosnocodigo.hashnode.dev/vscode-themes-and-extensions)
 <!-- BLOG-POST-LIST:END -->
+
+✒️ [...clique aqui para mais artigos](https://maosnocodigo.hashnode.dev/)
   
 <br/>
 
