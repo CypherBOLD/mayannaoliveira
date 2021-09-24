@@ -192,7 +192,7 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 
 <br/>
   
- [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayannaoliveira)](https://github.com/anuraghazra/github-readme-stats)
+ [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayannaoliveira)](https://wakatime.com/@mayannaoliveira)
 
 <br/>
 
