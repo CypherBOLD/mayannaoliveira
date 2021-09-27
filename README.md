@@ -68,11 +68,11 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 📘 Últimas postagens do blog Mãos no Código
 
 <!-- BLOG-POST-LIST:START -->
+- [Editando vídeo no terminal com o FFmpeg](https://maosnocodigo.hashnode.dev/editando-video-no-terminal-com-o-ffmpeg)
 - [Visual Studio Code com Gif no Power Mode](https://maosnocodigo.hashnode.dev/visual-studio-code-com-gif-no-power-mode)
 - [Temas de Cursores Favoritos](https://maosnocodigo.hashnode.dev/temas-de-cursores-favoritos)
 - [Alternatives to Visual Studio Code - Part 1/2](https://maosnocodigo.hashnode.dev/alternatives-to-visual-studio-code-part-12)
 - [My 13 Favorites Github Repositories](https://maosnocodigo.hashnode.dev/my-13-favorites-github-repositories)
-- [Sublime Text Turbo Mode](https://maosnocodigo.hashnode.dev/sublime-text-turbo-mode)
 <!-- BLOG-POST-LIST:END -->
 
 ✒️ [...clique aqui para mais artigos](https://maosnocodigo.hashnode.dev/)
