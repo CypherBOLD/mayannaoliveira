@@ -97,13 +97,13 @@ Agradeço os participantes que com alegria interajem e colaboram com as minhas p
   
 <br/>
 
-📘 Últimos vídeos no Youtube
+📺 Últimos vídeos no Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-✒️ [...clique aqui para ler mais artigos](https://maosnocodigo.hashnode.dev/)
+✒️ [...acompanhe meu canal no Youtube](https://www.youtube.com/channel/UCy11gGVU3qti6hKuPOfgUww)
 
 <br/>
 
