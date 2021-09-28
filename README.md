@@ -99,9 +99,9 @@ Agradeço os participantes que com alegria interajem e colaboram com as minhas p
 
 📘 Últimos vídeos no Youtube
 
-<!-- YOUTUBE-VIDEO-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:START -->
 
-<!-- YOUTUBE-VIDEO-LIST:END -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ✒️ [...clique aqui para ler mais artigos](https://maosnocodigo.hashnode.dev/)
 
