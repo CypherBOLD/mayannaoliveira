@@ -237,36 +237,54 @@ Github Stats com os indicadores das Linguagens de Programação mais usadas.
 
 <details align="left">
 
-<summary><b>🏅 Emblemas Conquistados</b></summary>
+<summary><b>🏅 Cursos e Treinamentos em 2021</b></summary>
 
-<!-- Data Science with Scala --> <a href="https://www.credly.com/users/mayannaoliveira" target="_blank"><img src="https://images.credly.com/size/340x340/images/0c067956-9a64-45ee-8471-c794e3e3f57c/Data_Science_with_Scala_-_Pwr_by_Lightbend.png" alt="Data Science with Scala" title="Data Science with Scala" width="15%"></a>
-<!-- Deep Learning Essentials --> < href="https://www.credly.com/users/mayannaoliveira" target="_blank"><img src="https://images.credly.com/size/340x340/images/f4f08b45-aa38-4242-8b05-dcdac6811504/Deep_Learning_Essentials.png" alt="Deep Learning Essentials" title="Deep Learning Essentials" width="15%"></a>
-<!-- Machine Learning with Python --> <a href="https://www.credly.com/badges/64d372d7-bb00-44d4-88e6-afb2ff74d620/public_url" target="_blank"><img alt="Machine Learning with Python" title="Machine Learning with Python" width="16%" src="https://images.credly.com/size/340x340/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png"/></a>
-<!-- Data Science Foundations --> <a href="https://www.credly.com/badges/04760ec1-b407-4860-b17c-35167bff17e2/public_url" target="_blank"><img alt="Data Science Foundations" title="Data Science Foundations" width="16%" src="https://images.credly.com/size/340x340/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png" /></a>
-<!-- Docker Essentials --> < href="https://www.credly.com/badges/5f3e704e-4369-4010-b50c-5168db1fa98a/public_url" target="_blank"><img src="https://i.imgur.com/DFYOGUF.png" alt="Docker Essentials: A Developer Introduction" title="Docker Essentials: A Developer Introduction" width="16%"></a> 
-<!-- Git e Gitlab --> < href="https://drive.google.com/file/d/19im8g2jrJltF_3-8CgLwFfu67HHfWvAB/view?usp=sharing" target="_blank"><img src="https://i.imgur.com/eKYZ5ut.png" alt="IDE Instalação e Configuração Visual Studio Code" title="IDE Instalação e Configuração Visual Studio Code" width="16%"></a> 
-<!-- Configuração Visual Studio Code --> < href="https://drive.google.com/file/d/1wkrVHEljaXoBZbwSdqb-tz_fCssn8MYu/view?usp=sharing" target="_blank"><img src="https://i.imgur.com/d2yNr8U.png" alt="Trabalhando com Git e Gitlab na prática" title="Trabalhando com Git e Gitlab na prática" width="15%"></a>
+  <br/>
+  
+[Data Science with Scala - IBM](https://www.credly.com/users/mayannaoliveira)
+  
+[Deep Learning Essentials - IBM](https://www.credly.com/users/mayannaoliveira)
+  
+[Machine Learning with Python - IBM](https://www.credly.com/users/mayannaoliveira)
 
-Acompanhe minha evolução no [Credly](https://www.credly.com/users/mayannaoliveira) 🖖
+[Data Science Foundations - IBM](https://www.credly.com/users/mayannaoliveira)
+
+[Docker Essentials: A Developer Introduction - IBM](https://www.credly.com/users/mayannaoliveira)
+  
+[IDE Instalação e Configuração Visual Studio Code - Digital Innovation One](https://digitalinnovation.one/)
+  
+[Trabalhando com Git e Gitlab na prática - Digital Innovation One](https://digitalinnovation.one/)
+  
+[Instalando e Configurando seu Ambiente Node.js - Digital Innovation One](https://digitalinnovation.one/)
+  
+[Google Analytics para iniciantes - Google Academy](https://analytics.google.com/analytics/academy/)
+  
+[Curso avançado do Google Analytics - Google Academy](https://analytics.google.com/analytics/academy/)
+  
+[Introdução ao Django: Modelo, Rotas e Views - Alura](https://cursos.alura.com.br/user/mayannait)
+  
+[Autenticação no Django: formulários, requisições e mensagens - Alura](https://cursos.alura.com.br/user/mayannait)
+  
+[Integração de modelos no Django: Filtros, buscas e admin - Alura](https://cursos.alura.com.br/user/mayannait)
+  
+[Selenium: Testes automatizados de aceitação em Java - Alura](https://cursos.alura.com.br/user/mayannait)
+  
+[Acessibilidade web parte 1: tornando seu front-end inclusivo - Alura](https://cursos.alura.com.br/user/mayannait)
+  
+[JS na Web: Manipule o DOM com JavaScript - Alura](https://cursos.alura.com.br/user/mayannait)
+  
+[Angular: Começando com o framework - Alura](https://cursos.alura.com.br/user/mayannait)
+  
+[Docker: Criando containers sem dor de cabeça - Alura](https://cursos.alura.com.br/user/mayannait)
+  
+[Docker Swarm: Orquestrador de containers - Alura](https://cursos.alura.com.br/user/mayannait)
+
+
+🖖 Acompanhe minha evolução no [Credly](https://www.credly.com/users/mayannaoliveira) e o meu currículo no [Linkedin](https://www.linkedin.com/in/mayannaoliveira/), onde eu posto o andamento da minha rotina de estudo e trabalho.
 
 </details>
 
 <br/>
-
-<details align="left">
-
-<summary><b>🎓 Certificados Conquistados</b></summary>
-
-<!-- Google Analytics para iniciantes --> < href="https://analytics.google.com/analytics/academy/certificate/m6b_UsAeSQO9oAMHvXrN6Q" target="_blank"><img alt="Google Analytics para iniciantes" title="Google Analytics para iniciantes" width="25%" src="https://i.imgur.com/eC7yG67.png"/></a> 
-<!-- Curso avançado do Google Analytics --> < href="https://analytics.google.com/analytics/academy/certificate/zq75IuRwSomzjykOmvQ3yg" target="_blank"><img alt="Curso avançado do Google Analytics" title="Curso avançado do Google Analytics" width="22.5%" src="https://i.imgur.com/6mqbyoC.png"/></a> 
-<!-- Trabalhando com Git e GitLab --> < href="https://i.imgur.com/MRfQ8S3.png" target="_blank"><img alt="Trabalhando com Git e GitLab" title="Trabalhando com Git e GitLab" width="24.5%" src="https://i.imgur.com/MRfQ8S3.png"/></a>
-
-Acompanhe meu currículo no [Linkedin](https://www.linkedin.com/in/mayannaoliveira/), onde eu posto o andamento da minha rotina de estudo e trabalho.
-
-</details>
-
-<br/>
-
 
 #### Referências
 
