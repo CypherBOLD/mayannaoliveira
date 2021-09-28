@@ -270,7 +270,7 @@ Acompanhe meu currículo no [Linkedin](https://www.linkedin.com/in/mayannaolivei
 
 #### Referências
 
-[Blog Post Workflow], [Giphy], [Github Chart API], [Streak Stats], [Profile Trophy], [Git Badges], [Github Stats], [Badges 4 Readme], [List of Badges], [Stars Sparklines], [Awesome Profile], [For The Badge] e [Shields]
+[Blog Post Workflow], [Giphy], [Github Chart API], [Catalin Pit Readme], [Streak Stats], [Profile Trophy], [Git Badges], [Github Stats], [Badges 4 Readme], [List of Badges], [Stars Sparklines], [Awesome Profile], [For The Badge] e [Shields]
 
 [Github Chart API]: https://ghchart.rshah.org/
 [Profile Trophy]: https://github.com/ryo-ma/github-profile-trophy
@@ -286,9 +286,9 @@ Acompanhe meu currículo no [Linkedin](https://www.linkedin.com/in/mayannaolivei
 [List of Badges]: https://github.com/Naereen/badges
 [Git Badges]: https://github.com/puf17640/git-badges/blob/master/README.md
 [Blog Post Workflow]: https://github.com/gautamkrishnar/blog-post-workflow?ref=natterstefan.me
+[Catalin Pit Readme]: https://github.com/catalinpit/catalinpit
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://beacons.ai/mayannaoliveira/) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://beacons.ai/mayannaoliveira/)
-
 
 <!-- <a href="https://beacons.ai/mayannaoliveira/"><img src="https://media4.giphy.com/media/lTAqHn9eHf1v6sEvYZ/giphy.gif?cid=ecf05e47yeru33ptfh12j2jnqr65firewe4hz4qzxqt69f1f&rid=giphy.gif" width="40%"></a> -->
 
