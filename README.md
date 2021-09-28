@@ -100,7 +100,7 @@ Agradeço os participantes que com alegria interajem e colaboram com as minhas p
 📺 Últimos vídeos no Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-
+- [Gif animado na extensão Power Mode do Visual Studio Code](https://www.youtube.com/watch?v=yRbngdPDSJU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ✒️ [...acompanhe meu canal no Youtube](https://www.youtube.com/channel/UCy11gGVU3qti6hKuPOfgUww)
