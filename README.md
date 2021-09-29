@@ -315,3 +315,8 @@ Github Stats com os indicadores das Linguagens de Programação mais usadas.
 #### ❤️ Follow, Fork and Star
 [![Contributors Display](https://badges.pufler.dev/contributors/mayannaoliveira/mayannaoliveira?size=50&padding=5&bots=true)](https://beacons.ai/mayannaoliveira/)
 
+#### 🎧️ Vamos ouvir um som no Spotify? 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mayanna.oliveira&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+
+Caso queira acompanhar minhas playlists busque por [mayanna.oliveira](https://www.spotify.com/).
+
