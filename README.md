@@ -286,9 +286,21 @@ Github Stats com os indicadores das Linguagens de Programação mais usadas.
 
 <br/>
 
+<!-- <a href="https://beacons.ai/mayannaoliveira/"><img src="https://media4.giphy.com/media/lTAqHn9eHf1v6sEvYZ/giphy.gif?cid=ecf05e47yeru33ptfh12j2jnqr65firewe4hz4qzxqt69f1f&rid=giphy.gif" width="40%"></a> -->
+
+<!-- <a href="https://beacons.ai/mayannaoliveira/"><img src="media/tea.gif" width="30%" alt="gif"></a> -->
+
+#### ❤️ Follow, Fork and Star
+[![Contributors Display](https://badges.pufler.dev/contributors/mayannaoliveira/mayannaoliveira?size=50&padding=5&bots=true)](https://beacons.ai/mayannaoliveira/)
+
+#### 🎧️ Vamos ouvir um som no Spotify? 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mayanna.oliveira&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+
+![mayanna.oliveira](https://img.shields.io/badge/Spotify-mayanna.oliveira-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+
 #### Referências
 
-[Blog Post Workflow], [Giphy], [Github Chart API], [Catalin Pit Readme], [Streak Stats], [Profile Trophy], [Git Badges], [Github Stats], [Badges 4 Readme], [List of Badges], [Stars Sparklines], [Awesome Profile], [For The Badge] e [Shields]
+[Blog Post Workflow], [Giphy], [Github Chart API], [Catalin Pit Readme], [Streak Stats], [Spotify Github Profile], [Profile Trophy], [Git Badges], [Github Stats], [Badges 4 Readme], [List of Badges], [Stars Sparklines], [Awesome Profile], [For The Badge] e [Shields]
 
 [Github Chart API]: https://ghchart.rshah.org/
 [Profile Trophy]: https://github.com/ryo-ma/github-profile-trophy
@@ -305,18 +317,6 @@ Github Stats com os indicadores das Linguagens de Programação mais usadas.
 [Git Badges]: https://github.com/puf17640/git-badges/blob/master/README.md
 [Blog Post Workflow]: https://github.com/gautamkrishnar/blog-post-workflow?ref=natterstefan.me
 [Catalin Pit Readme]: https://github.com/catalinpit/catalinpit
+[Spotify Github Profile]: https://github.com/kittinan/spotify-github-profile
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://beacons.ai/mayannaoliveira/) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://beacons.ai/mayannaoliveira/)
-
-<!-- <a href="https://beacons.ai/mayannaoliveira/"><img src="https://media4.giphy.com/media/lTAqHn9eHf1v6sEvYZ/giphy.gif?cid=ecf05e47yeru33ptfh12j2jnqr65firewe4hz4qzxqt69f1f&rid=giphy.gif" width="40%"></a> -->
-
-<!-- <a href="https://beacons.ai/mayannaoliveira/"><img src="media/tea.gif" width="30%" alt="gif"></a> -->
-
-#### ❤️ Follow, Fork and Star
-[![Contributors Display](https://badges.pufler.dev/contributors/mayannaoliveira/mayannaoliveira?size=50&padding=5&bots=true)](https://beacons.ai/mayannaoliveira/)
-
-#### 🎧️ Vamos ouvir um som no Spotify? 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mayanna.oliveira&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
-
-Caso queira acompanhar minhas playlists busque por [mayanna.oliveira](https://www.spotify.com/).
-
