@@ -87,10 +87,10 @@ Agradeço os participantes que com alegria interajem e colaboram com as minhas p
 
 <!-- BLOG-POST-LIST:START -->
 - [Como manter o foco em meio a tantas distrações](https://maosnocodigo.hashnode.dev/como-manter-o-foco-em-meio-a-tantas-distracoes)
+- [Alternativas para o Visual Studio Code](https://maosnocodigo.hashnode.dev/alternativas-para-o-visual-studio-code)
 - [Visual Studio Code diretamente do navegador](https://maosnocodigo.hashnode.dev/visual-studio-code-diretamente-do-navegador)
 - [Editando vídeo no terminal com o FFmpeg](https://maosnocodigo.hashnode.dev/editando-video-no-terminal-com-o-ffmpeg)
 - [Visual Studio Code com Gif no Power Mode](https://maosnocodigo.hashnode.dev/visual-studio-code-com-gif-no-power-mode)
-- [Temas de Cursores Favoritos](https://maosnocodigo.hashnode.dev/temas-de-cursores-favoritos)
 <!-- BLOG-POST-LIST:END -->
 
 ✒️ [...clique aqui para ler mais artigos](https://maosnocodigo.hashnode.dev/)
