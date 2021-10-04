@@ -1,5 +1,7 @@
 
 
+<!-- <img src="https://profile-counter.glitch.me/mayannaoliveira/count.svg" alt="contador visitas"/> -->
+
 <!-- <h1> <img src="https://media.giphy.com/media/bZbfYZ1I4ClQLQVFll/giphy.gif?cid=ecf05e47m5l24u6vjr2f0sy1ynzacwz72b3ohnofe0gl3pgj&rid=giphy.gif&ct=s" width="35px"></a> Oi, o meu nome é Mayanna <a href="https://linktr.ee/mayannaoliveira"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> </h1> -->
 
 <h1> <img src="media/brasil.gif" width="35px" alt="gif"></a> Olá, meu nome é Mayanna <a href="https://mayanna.bio.link/"><img src="media/hand.gif" width="25px" alt="gif"></a> </h1> 
