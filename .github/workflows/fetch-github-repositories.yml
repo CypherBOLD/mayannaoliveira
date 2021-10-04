@@ -11,7 +11,7 @@ jobs:
         with:
           username: mayannaoliveira
           github_token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Commit & Push changes
-        uses: actions-js/push@master
+      - name: Profile Readme
+        uses: actions-js/profile-readme@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
