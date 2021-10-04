@@ -1,13 +1,14 @@
 <!-- <h1> <img src="https://media.giphy.com/media/bZbfYZ1I4ClQLQVFll/giphy.gif?cid=ecf05e47m5l24u6vjr2f0sy1ynzacwz72b3ohnofe0gl3pgj&rid=giphy.gif&ct=s" width="35px"></a> Oi, o meu nome é Mayanna <a href="https://linktr.ee/mayannaoliveira"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> </h1> -->
 
 
-<h1> <img src="media/brasil.gif" width="35px" alt="gif"></a> Olá, meu nome é Mayanna <a href="https://linktr.ee/mayannaoliveira"><img src="media/hand.gif" width="25px" alt="gif"></a> </h1>
+<h1> <img src="media/brasil.gif" width="35px" alt="gif"></a> Olá, meu nome é Mayanna <a href="https://linktr.ee/mayannaoliveira"><img src="media/hand.gif" width="25px" alt="gif"></a> </h1> 
 
 Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Norte do Paraná, pós-graduada em Engenharia de Sistemas pela Universidade Estadual de Montes Claros e certificada CFTL pela BSTQB.
 
 <div align="center">
-<img src="media/girlcode.gif" width="50%" alt="gif"> 
-</div>
+  <img src="media/girlcode.gif" width="50%" alt="gif"> 
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="50%" alt="quotes"> 
+</div> 
 
 - 💼 Analista de Sistemas com experiência profissional como programadora, testadora (white-box e black-box) e analista de SEO.
 - 👩‍🎓 Graduação em Análise e Desenvolvimento de Sistemas (UNOPAR) e pós-graduação em Engenharia de Sistemas (UNIMONTES).
@@ -300,7 +301,7 @@ Github Stats com os indicadores das Linguagens de Programação mais usadas.
 
 #### Referências
 
-[Blog Post Workflow], [Giphy], [Github Chart API], [Catalin Pit Readme], [Streak Stats], [Spotify Github Profile], [Profile Trophy], [Git Badges], [Github Stats], [Badges 4 Readme], [List of Badges], [Stars Sparklines], [Awesome Profile], [For The Badge] e [Shields]
+[Blog Post Workflow], [Giphy], [Github Chart API], [Catalin Pit Readme], [Streak Stats], [Spotify Github Profile], [Profile Trophy], [Git Badges], [Github Stats], [Badges 4 Readme], [List of Badges], [Stars Sparklines], [Readme Quotes], [Awesome Profile], [For The Badge] e [Shields]
 
 [Github Chart API]: https://ghchart.rshah.org/
 [Profile Trophy]: https://github.com/ryo-ma/github-profile-trophy
@@ -318,5 +319,6 @@ Github Stats com os indicadores das Linguagens de Programação mais usadas.
 [Blog Post Workflow]: https://github.com/gautamkrishnar/blog-post-workflow?ref=natterstefan.me
 [Catalin Pit Readme]: https://github.com/catalinpit/catalinpit
 [Spotify Github Profile]: https://github.com/kittinan/spotify-github-profile
+[Readme Quotes]: https://github.com/PiyushSuthar/github-readme-quotes
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://beacons.ai/mayannaoliveira/) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://beacons.ai/mayannaoliveira/)
