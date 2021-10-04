@@ -7,11 +7,11 @@
 Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Norte do Paraná, pós-graduada em Engenharia de Sistemas pela Universidade Estadual de Montes Claros e certificada CFTL pela BSTQB.
 
 <div align="center">
-  
-  <img src="media/girlcode.gif" width="50%" alt="gif"> 
-  <br/> 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="50%" alt="quotes"> 
-  
+
+<img src="media/girlcode.gif" width="50%" alt="gif"> 
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="50%" alt="quotes"> 
+
 </div> 
 
 <br/> 
@@ -35,9 +35,9 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 <div align="center">
 
 <img align="center" alt="logo" title="Mayanna Oliveira" width="15%" src="media/beacons.jpg" />
-  
+
 <br/>
-  
+
 <br/> 
 
 ![visualizacoes](https://komarev.com/ghpvc/?username=mayannaoliveira&color=green&label=Visitas_no_Perfil)  ![seguidores](https://img.shields.io/github/followers/mayannaoliveira?label=Seguidores&style=social) [![wakatime](https://wakatime.com/badge/user/cd4a8b69-f939-4fa3-a908-c3b12093052f.svg)](https://wakatime.com/@cd4a8b69-f939-4fa3-a908-c3b12093052f)
@@ -65,9 +65,9 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayannaoliveira) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mayannait@gmail.com)](mailto:mayannait@gmail.com) [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/message/5XLG4UPSFCNWP1) [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mayannaoliveira) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oliveiramayanna/) [![twitter](https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oliveiramayanna) [![youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCy11gGVU3qti6hKuPOfgUww) [![tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white)](https://www.tumblr.com/blog/view/mayanna-it) [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Z3uu4JGn) [![currículo](
 https://img.shields.io/badge/-Currículo-white?style=for-the-badge&logo=files&logoColor=ff7102&link=https://drive.google.com/file/d/1OuiWRW7Xtc04rphQBzF_PxrRgDwaT_Vl/view?usp=sharing
 )](https://drive.google.com/file/d/1OuiWRW7Xtc04rphQBzF_PxrRgDwaT_Vl/view?usp=sharing) 
-  
+
 <!-- [![biolink](https://img.shields.io/badge/Bio%20Link-000000?style=for-the-badge&logo=bio&logoColor=white)](https://mayanna.bio.link/) -->
-  
+
 </div>
 </details>
 
@@ -89,9 +89,9 @@ Agradeço os participantes que com alegria interajem e colaboram com as minhas p
 
 </div>
 </details>
-  
+
 <br/>
-  
+
 📘 Últimas postagens do blog Mãos no Código
 
 <!-- BLOG-POST-LIST:START -->
@@ -103,7 +103,7 @@ Agradeço os participantes que com alegria interajem e colaboram com as minhas p
 <!-- BLOG-POST-LIST:END -->
 
 ✒️ [...clique aqui para ler mais artigos](https://maosnocodigo.hashnode.dev/)
-  
+
 <br/>
 
 📺 Últimos vídeos no Youtube
@@ -123,9 +123,9 @@ Agradeço os participantes que com alegria interajem e colaboram com as minhas p
 
 <div align="center">
 
-  <br/>
+<br/>
 
-  ![github activity graph](https://activity-graph.herokuapp.com/graph?username=mayannaoliveira&theme=rogue)
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=mayannaoliveira&theme=rogue)
 
 </div>
 
@@ -170,7 +170,7 @@ Dicas para facilitar a vida do programador e testador pensando sempre no aumento
 <summary><b>🏆 Indicadores do Github e Wakatime</b></summary>
 
 <br/>
-  
+
 📊 [Github Stats]
 
 O meu GitHub Stats e as linguagens de programação que eu venho usando com mais frequencia.
@@ -244,7 +244,7 @@ Github Stats com os indicadores das Linguagens de Programação mais usadas.
 ![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-orange?style=for-the-badge&logo=Gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=for-the-badge&logo=Bitbucket&logoColor=white)
-  
+
 #### Sistemas Operacionais
 ![Linux](https://img.shields.io/badge/-Windows-blue?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=for-the-badge&logo=Ubuntu&logoColor=white)
@@ -269,8 +269,8 @@ Github Stats com os indicadores das Linguagens de Programação mais usadas.
 </details>
 
 <br/>
-  
- [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayannaoliveira&theme=dracula)](https://wakatime.com/@mayannaoliveira)
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayannaoliveira&theme=dracula)](https://wakatime.com/@mayannaoliveira)
 
 <br/>
 
@@ -278,44 +278,44 @@ Github Stats com os indicadores das Linguagens de Programação mais usadas.
 
 <summary><b>🏅 Cursos e Treinamentos em 2021</b></summary>
 
-  <br/>
-  
+<br/>
+
 [Data Science with Scala - IBM](https://www.credly.com/users/mayannaoliveira)
-  
+
 [Deep Learning Essentials - IBM](https://www.credly.com/users/mayannaoliveira)
-  
+
 [Machine Learning with Python - IBM](https://www.credly.com/users/mayannaoliveira)
 
 [Data Science Foundations - IBM](https://www.credly.com/users/mayannaoliveira)
 
 [Docker Essentials: A Developer Introduction - IBM](https://www.credly.com/users/mayannaoliveira)
-  
+
 [IDE Instalação e Configuração Visual Studio Code - Digital Innovation One](https://digitalinnovation.one/)
-  
+
 [Trabalhando com Git e Gitlab na prática - Digital Innovation One](https://digitalinnovation.one/)
-  
+
 [Instalando e Configurando seu Ambiente Node.js - Digital Innovation One](https://digitalinnovation.one/)
-  
+
 [Google Analytics para iniciantes - Google Academy](https://analytics.google.com/analytics/academy/)
-  
+
 [Curso avançado do Google Analytics - Google Academy](https://analytics.google.com/analytics/academy/)
-  
+
 [Introdução ao Django: Modelo, Rotas e Views - Alura](https://cursos.alura.com.br/user/mayannait)
-  
+
 [Autenticação no Django: formulários, requisições e mensagens - Alura](https://cursos.alura.com.br/user/mayannait)
-  
+
 [Integração de modelos no Django: Filtros, buscas e admin - Alura](https://cursos.alura.com.br/user/mayannait)
-  
+
 [Selenium: Testes automatizados de aceitação em Java - Alura](https://cursos.alura.com.br/user/mayannait)
-  
+
 [Acessibilidade web parte 1: tornando seu front-end inclusivo - Alura](https://cursos.alura.com.br/user/mayannait)
-  
+
 [JS na Web: Manipule o DOM com JavaScript - Alura](https://cursos.alura.com.br/user/mayannait)
-  
+
 [Angular: Começando com o framework - Alura](https://cursos.alura.com.br/user/mayannait)
-  
+
 [Docker: Criando containers sem dor de cabeça - Alura](https://cursos.alura.com.br/user/mayannait)
-  
+
 [Docker Swarm: Orquestrador de containers - Alura](https://cursos.alura.com.br/user/mayannait)
 
 
