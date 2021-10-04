@@ -7,8 +7,11 @@
 Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Norte do Paraná, pós-graduada em Engenharia de Sistemas pela Universidade Estadual de Montes Claros e certificada CFTL pela BSTQB.
 
 <div align="center">
+  
   <img src="media/girlcode.gif" width="50%" alt="gif"> 
+  
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="50%" alt="quotes"> 
+  
 </div> 
 
 - 💼 Analista de Sistemas com experiência profissional como programadora, testadora (white-box e black-box) e analista de SEO.
