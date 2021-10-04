@@ -1,9 +1,3 @@
 ![Metrics](https://metrics.lecoq.io/mayannaoliveira?template=classic&isocalendar=1&languages=1&introduction=1&people=1&gists=1&followup=1&posts=1&tweets=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&tweets.attachments=false&tweets.limit=2&tweets.user=oliveiramayanna&posts.source=hashnode&posts.descriptions=true&posts.covers=true&posts.limit=4&posts.user=mayannaoliveira&config.timezone=America%2FBahia)
 
-#### Atividades no Github
-<!--GITHUB_ACTIVITY:{"rows": 5}-->
-
-<p align="center">
-Últimas atualizações: 
-<b><!--TIMESTAMP--></b>
-</p>
+Fonte: [Metrics](https://metrics.lecoq.io/)
