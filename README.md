@@ -117,6 +117,22 @@ Agradeço os participantes que com alegria interajem e colaboram com as minhas p
 
 <details align="left">
 
+<summary><b>📊 Gráficos de Atividades do Github </b></summary>
+
+<div align="center">
+
+  <br/>
+
+  ![github activity graph](https://activity-graph.herokuapp.com/graph?username=mayannaoliveira&theme=rogue)
+
+</div>
+
+</details>
+
+<br/>
+
+<details align="left">
+
 <summary><b>🐙 Métricas do Github </b></summary>
 
 <div align="left">
