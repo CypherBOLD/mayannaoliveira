@@ -114,6 +114,21 @@ Agradeço os participantes que com alegria interajem e colaboram com as minhas p
 
 <details align="left">
 
+<summary><b>🐙 Métricas do Github </b></summary>
+
+<div align="left">
+
+
+![Metrics](https://metrics.lecoq.io/mayannaoliveira?template=classic&isocalendar=1&languages=1&introduction=1&people=1&gists=1&followup=1&posts=1&tweets=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&tweets.attachments=false&tweets.limit=2&tweets.user=oliveiramayanna&posts.source=hashnode&posts.descriptions=true&posts.covers=true&posts.limit=4&posts.user=mayannaoliveira&config.timezone=America%2FBahia)
+
+</div>
+
+</details>
+
+<br/>
+
+<details align="left">
+
 <summary><b>📚 Tutoriais de Documentações e Dicas</b></summary>
 
 Eu estou seguindo os modelos das documentações e realizando alguns tutorias para estudo. A prática de usár tutoriais disponíveis na documentação ajuda na melhor compreensão da tecnologia em uso.
@@ -295,16 +310,18 @@ Github Stats com os indicadores das Linguagens de Programação mais usadas.
 <!-- <a href="https://beacons.ai/mayannaoliveira/"><img src="media/tea.gif" width="30%" alt="gif"></a> -->
 
 #### ❤️ Follow, Fork and Star
+
 [![Contributors Display](https://badges.pufler.dev/contributors/mayannaoliveira/mayannaoliveira?size=50&padding=5&bots=true)](https://beacons.ai/mayannaoliveira/)
 
 #### 🎧️ Vamos ouvir um som no Spotify? 
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mayanna.oliveira&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
 ![mayanna.oliveira](https://img.shields.io/badge/Spotify-mayanna.oliveira-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 
 #### Referências
 
-[Blog Post Workflow], [Giphy], [GitHub Action for Profile Readme], [Github Chart API], [Catalin Pit Readme], [Streak Stats], [Spotify Github Profile], [Profile Trophy], [Git Badges], [Github Stats], [Badges 4 Readme], [List of Badges], [Stars Sparklines], [Readme Quotes], [Awesome Profile], [For The Badge] e [Shields]
+[Blog Post Workflow], [Giphy], [GitHub Action for Profile Readme], [Github Chart API], [Catalin Pit Readme], [Streak Stats], [Spotify Github Profile], [Profile Trophy], [Git Badges], [Github Stats], [Badges 4 Readme], [List of Badges], [Awesome GitHub Profile README], [Metrics], [Stars Sparklines], [Readme Quotes], [Awesome Profile], [For The Badge] e [Shields]
 
 [Github Chart API]: https://ghchart.rshah.org/
 [Profile Trophy]: https://github.com/ryo-ma/github-profile-trophy
@@ -324,5 +341,7 @@ Github Stats com os indicadores das Linguagens de Programação mais usadas.
 [Spotify Github Profile]: https://github.com/kittinan/spotify-github-profile
 [Readme Quotes]: https://github.com/PiyushSuthar/github-readme-quotes
 [GitHub Action for Profile Readme]: https://github.com/marketplace/actions/profile-readme
+[Metrics]: https://metrics.lecoq.io/
+[Awesome GitHub Profile README]: https://github.com/abhisheknaiidu/awesome-github-profile-readme#dynamic-realtime-
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://beacons.ai/mayannaoliveira/) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://beacons.ai/mayannaoliveira/)
