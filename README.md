@@ -339,7 +339,7 @@ Github Stats com os indicadores das Linguagens de Programação mais usadas.
 
 #### Referências
 
-[Blog Post Workflow], [Giphy], [GitHub Action for Profile Readme], [Github Chart API], [Catalin Pit Readme], [Streak Stats], [Spotify Github Profile], [Profile Trophy], [Git Badges], [Github Stats], [Badges 4 Readme], [List of Badges], [Awesome GitHub Profile README], [Metrics], [Stars Sparklines], [Readme Quotes], [Awesome Profile], [For The Badge] e [Shields]
+[Blog Post Workflow], [Giphy], [GitHub Action for Profile Readme], [Github Chart API], [Catalin Pit Readme], [Streak Stats], [Spotify Github Profile], [Profile Trophy], [Git Badges], [Github Stats], [Badges 4 Readme], [Github Readme Activity Graph], [List of Badges], [Awesome GitHub Profile README], [Metrics], [Stars Sparklines], [Readme Quotes], [Awesome Profile], [For The Badge] e [Shields]
 
 [Bio Link]: https://mayanna.bio.link/
 [Github Chart API]: https://ghchart.rshah.org/
@@ -362,5 +362,6 @@ Github Stats com os indicadores das Linguagens de Programação mais usadas.
 [GitHub Action for Profile Readme]: https://github.com/marketplace/actions/profile-readme
 [Metrics]: https://metrics.lecoq.io/
 [Awesome GitHub Profile README]: https://github.com/abhisheknaiidu/awesome-github-profile-readme#dynamic-realtime-
+[Github Readme Activity Graph]: https://github.com/ashutosh00710/github-readme-activity-graph
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://beacons.ai/mayannaoliveira/) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://beacons.ai/mayannaoliveira/)
