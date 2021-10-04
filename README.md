@@ -14,6 +14,8 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
   
 </div> 
 
+<br/> 
+
 - 💼 Analista de Sistemas com experiência profissional como programadora, testadora (white-box e black-box) e analista de SEO.
 - 👩‍🎓 Graduação em Análise e Desenvolvimento de Sistemas (UNOPAR) e pós-graduação em Engenharia de Sistemas (UNIMONTES).
 - 📜 Certificação CTFL - Certified Tester Foundation Level.
