@@ -35,7 +35,7 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
   
 <br/> 
 
-![visualizacoes](https://komarev.com/ghpvc/?username=mayannaoliveira&color=green&label=Visitas_no_Perfil)  ![seguidores](https://img.shields.io/github/followers/mayannaoliveira?label=Seguidores&style=social)
+![visualizacoes](https://komarev.com/ghpvc/?username=mayannaoliveira&color=green&label=Visitas_no_Perfil)  ![seguidores](https://img.shields.io/github/followers/mayannaoliveira?label=Seguidores&style=social) [![wakatime](https://wakatime.com/badge/user/cd4a8b69-f939-4fa3-a908-c3b12093052f.svg)](https://wakatime.com/@cd4a8b69-f939-4fa3-a908-c3b12093052f)
 
 <br/> 
 
@@ -60,6 +60,7 @@ Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayannaoliveira) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mayannait@gmail.com)](mailto:mayannait@gmail.com) [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/message/5XLG4UPSFCNWP1) [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mayannaoliveira) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oliveiramayanna/) [![twitter](https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oliveiramayanna) [![youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCy11gGVU3qti6hKuPOfgUww) [![tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white)](https://www.tumblr.com/blog/view/mayanna-it) [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Z3uu4JGn) [![currículo](
 https://img.shields.io/badge/-Currículo-white?style=for-the-badge&logo=files&logoColor=ff7102&link=https://drive.google.com/file/d/1OuiWRW7Xtc04rphQBzF_PxrRgDwaT_Vl/view?usp=sharing
 )](https://drive.google.com/file/d/1OuiWRW7Xtc04rphQBzF_PxrRgDwaT_Vl/view?usp=sharing) 
+  
 <!-- [![biolink](https://img.shields.io/badge/Bio%20Link-000000?style=for-the-badge&logo=bio&logoColor=white)](https://mayanna.bio.link/) -->
   
 </div>
