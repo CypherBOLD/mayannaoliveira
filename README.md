@@ -2,7 +2,7 @@
 
 <!-- <h1> <img src="https://media.giphy.com/media/bZbfYZ1I4ClQLQVFll/giphy.gif?cid=ecf05e47m5l24u6vjr2f0sy1ynzacwz72b3ohnofe0gl3pgj&rid=giphy.gif&ct=s" width="35px"></a> Oi, o meu nome é Mayanna <a href="https://linktr.ee/mayannaoliveira"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> </h1> -->
 
-<h1> <img src="media/brasil.gif" width="35px" alt="gif"></a> Olá, meu nome é Mayanna <a href="https://linktr.ee/mayannaoliveira"><img src="media/hand.gif" width="25px" alt="gif"></a> </h1> 
+<h1> <img src="media/brasil.gif" width="35px" alt="gif"></a> Olá, meu nome é Mayanna <a href="https://mayanna.bio.link/"><img src="media/hand.gif" width="25px" alt="gif"></a> </h1> 
 
 Eu sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Norte do Paraná, pós-graduada em Engenharia de Sistemas pela Universidade Estadual de Montes Claros e certificada CFTL pela BSTQB.
 
@@ -117,7 +117,6 @@ Agradeço os participantes que com alegria interajem e colaboram com as minhas p
 <summary><b>🐙 Métricas do Github </b></summary>
 
 <div align="left">
-
 
 ![Metrics](https://metrics.lecoq.io/mayannaoliveira?template=classic&isocalendar=1&languages=1&introduction=1&people=1&gists=1&followup=1&posts=1&tweets=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&tweets.attachments=false&tweets.limit=2&tweets.user=oliveiramayanna&posts.source=hashnode&posts.descriptions=true&posts.covers=true&posts.limit=4&posts.user=mayannaoliveira&config.timezone=America%2FBahia)
 
@@ -323,6 +322,7 @@ Github Stats com os indicadores das Linguagens de Programação mais usadas.
 
 [Blog Post Workflow], [Giphy], [GitHub Action for Profile Readme], [Github Chart API], [Catalin Pit Readme], [Streak Stats], [Spotify Github Profile], [Profile Trophy], [Git Badges], [Github Stats], [Badges 4 Readme], [List of Badges], [Awesome GitHub Profile README], [Metrics], [Stars Sparklines], [Readme Quotes], [Awesome Profile], [For The Badge] e [Shields]
 
+[Bio Link]: https://mayanna.bio.link/
 [Github Chart API]: https://ghchart.rshah.org/
 [Profile Trophy]: https://github.com/ryo-ma/github-profile-trophy
 [Github Stats]: https://github.com/anuraghazra/github-readme-stats
