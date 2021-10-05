@@ -111,6 +111,7 @@ Agradeço os participantes que com alegria interajem e colaboram com as minhas p
 📺 Últimos vídeos no Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Compartilhe imagens do seu código fonte](https://www.youtube.com/watch?v=IE_lDcxJJOU)
 - [Como manter o foco em meio a tantas distrações #reflexões](https://www.youtube.com/watch?v=j63STe8HzjI)
 - [Gif animado na extensão Power Mode do Visual Studio Code](https://www.youtube.com/watch?v=yRbngdPDSJU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
