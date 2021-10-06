@@ -97,11 +97,11 @@ Agradeço os participantes que com alegria interajem e colaboram com as minhas p
 📘 Últimas postagens do blog Mãos no Código
 
 <!-- BLOG-POST-LIST:START -->
+- [Distribuições Linux que você deve conhecer](https://maosnocodigo.hashnode.dev/distribuicoes-linux-que-voce-deve-conhecer)
 - [Compartilhe imagens do seu código-fonte](https://maosnocodigo.hashnode.dev/compartilhe-imagens-do-seu-codigo-fonte)
 - [Como manter o foco em meio a tantas distrações](https://maosnocodigo.hashnode.dev/como-manter-o-foco-em-meio-a-tantas-distracoes)
 - [Alternativas para o Visual Studio Code](https://maosnocodigo.hashnode.dev/alternativas-para-o-visual-studio-code)
 - [Visual Studio Code diretamente do navegador](https://maosnocodigo.hashnode.dev/visual-studio-code-diretamente-do-navegador)
-- [Editando vídeo no terminal com o FFmpeg](https://maosnocodigo.hashnode.dev/editando-video-no-terminal-com-o-ffmpeg)
 <!-- BLOG-POST-LIST:END -->
 
 ✒️ [...clique aqui para ler mais artigos](https://maosnocodigo.hashnode.dev/)
