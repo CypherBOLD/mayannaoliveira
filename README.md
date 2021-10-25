@@ -111,11 +111,11 @@ Agradeço os participantes que com alegria interajem e colaboram com as minhas p
 📺 Últimos vídeos no Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Difículdade máxima para jogar Wario no celular](https://www.youtube.com/watch?v=mZPCJ4lxjh4)
 - [Jogando Mahjong via Aplicativo](https://www.youtube.com/watch?v=MQK0rVPrEsg)
 - [Wario Land 4](https://www.youtube.com/watch?v=7-acQ7nvQA8)
 - [Compartilhe imagens do seu código fonte](https://www.youtube.com/watch?v=IE_lDcxJJOU)
 - [Como manter o foco em meio a tantas distrações #reflexões](https://www.youtube.com/watch?v=j63STe8HzjI)
-- [Gif animado na extensão Power Mode do Visual Studio Code](https://www.youtube.com/watch?v=yRbngdPDSJU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ✒️ [...acompanhe meu canal no Youtube](https://www.youtube.com/channel/UCy11gGVU3qti6hKuPOfgUww)
