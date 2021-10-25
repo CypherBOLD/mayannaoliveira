@@ -111,6 +111,7 @@ Agradeço os participantes que com alegria interajem e colaboram com as minhas p
 📺 Últimos vídeos no Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Jogando Mahjong via Aplicativo](https://www.youtube.com/watch?v=MQK0rVPrEsg)
 - [Wario Land 4](https://www.youtube.com/watch?v=7-acQ7nvQA8)
 - [Compartilhe imagens do seu código fonte](https://www.youtube.com/watch?v=IE_lDcxJJOU)
 - [Como manter o foco em meio a tantas distrações #reflexões](https://www.youtube.com/watch?v=j63STe8HzjI)
